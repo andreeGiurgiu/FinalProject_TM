@@ -9,7 +9,7 @@ Movie - https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movi
 And for the NERC we use 
 Google dataset pre-trained word embeddings called word2vec.The embeddings have 300 dimensions.: https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?pli=1&resourcekey=0-wjGZdNAUop6WykTtMip30g
 
-##Coding description
+## Coding description
 ### 1. NERC
 The purpose of this notebook is Named Entity Recognition (NER), a crucial NLP job. The actions consist of:
 
